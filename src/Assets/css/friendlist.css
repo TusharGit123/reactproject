@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .card{
+      background: #eeeeee;
+      width: 17rem;
+      padding: 1rem;
+      margin: 2rem auto;
+      transition: all 0.3 linear;
+      text-align: center;   
+  }
+  .card img{
+    border: 0.1rem solid teal;
+    border-radius: 50%;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .card-body p{
+      color: teal;
+  }
+  .card:hover{
+      box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  
