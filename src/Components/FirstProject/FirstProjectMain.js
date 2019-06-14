@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import FriendList from './FriendList';
-import '../../Assets/css/friendlist.css';
+import '../FirstProject/friendlist.css';
 import person from '../../Assets/images/person1.png';
 import person1 from '../../Assets/images/person2.png';
 import person2 from '../../Assets/images/person3.png';

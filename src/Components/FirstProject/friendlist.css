@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
   }
-  .card{
+  .cardone{
       background: #eeeeee;
       width: 17rem;
       padding: 1rem;
@@ -11,17 +11,17 @@
       transition: all 0.3 linear;
       text-align: center;   
   }
-  .card img{
+  .cardone img{
     border: 0.1rem solid teal;
     border-radius: 50%;
     width: 30%;
     margin-left: auto;
     margin-right: auto;
   }
-  .card-body p{
+  .card-bodyone p{
       color: teal;
   }
-  .card:hover{
+  .cardone:hover{
       box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.3);
   }
   

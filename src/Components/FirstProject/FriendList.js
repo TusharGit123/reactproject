@@ -13,9 +13,9 @@ const FirstProjectMain = ({
             <div className="row">
             <div className="col-sm-4"></div>
                 <div className="col-sm-4">
-                    <div className="card">
+                    <div className="card cardone">
                         <img className="card-img-top" src={image} alt="Card image cap"/>
-                        <div className="card-body">
+                        <div className="card-body card-bodyone">
                             <p className="card-text text-center">{name}</p>
                             <p className="card-text text-center">{job}</p>
                             {children}
